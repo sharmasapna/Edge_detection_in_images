@@ -7,6 +7,8 @@ Steps:
 4. Take the gradients for edge detection 
 5. Final output
 
+### image source : https://en.wikipedia.org/wiki/Sobel_operator
+
 ### Results are as follows:
 
 <img src="https://github.com/sharmasapna/Edge_detection_in_images/blob/master/images/original_image.png" width="250" height="250"><img src="https://github.com/sharmasapna/Edge_detection_in_images/blob/master/images/Sobel_kernel.png" width="250" height="250"><img src="https://github.com/sharmasapna/Edge_detection_in_images/blob/master/images/Sobel_Fledman_kernel.png" width="250" height="250">
